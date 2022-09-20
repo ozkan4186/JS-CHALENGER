@@ -1,7 +1,7 @@
 # JS-CHALENGER
 1.// ! Write a function which calculates the average of the numbers in a given list.
 
-//! Note: Empty arrays should return 0.
+! Note: Empty arrays should return 0.
 
 image
 
