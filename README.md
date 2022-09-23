@@ -29,6 +29,22 @@ image
 
 //#Find the missing letter
 Write a method that takes an array of consecutive (increasing) letters as input and that returns the missing letter in the array.
+function solution(number) {
+    let arr = 0
+    for (i = 0; i < number; i += 3) {
+        arr += i
+    }
+    for (i = 0; i < number; i += 5) {
+        arr += i;
+    }
+    for (i = 0; i < number; i += 15) {
+        arr -= i;
+        i
+    }
+    return arr
+}
+console.log(solution(27));
+
 
 You will always get an valid array. And it will be always exactly one letter be missing. The length of the array will always be at least 2. The array will always contain letters in only one case.
 
