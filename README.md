@@ -53,3 +53,18 @@ Example:
 ['a','b','c','d','f'] -> 'e' ['O','Q','R','S'] -> 'P'
 
 image
+
+function feast(beast, dish) {
+
+    if (a[0] == b[0] && a[a.length - 1] == b[b.length - 1]) {
+        return 'true';
+
+
+    } else {
+        return 'false';
+    }
+
+}
+
+console.log(feast("creat 5 herok", "carlic naak"))
+
