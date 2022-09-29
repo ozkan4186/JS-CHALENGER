@@ -67,4 +67,12 @@ function feast(beast, dish) {
 }
 
 console.log(feast("creat 5 herok", "carlic naak"))
+# code wars 7.kata ouestions
+Complete the function that accepts a string parameter, and reverses each word in the string. All spaces in the string should be retained.
+
+Examples
+"This is an example!" ==> "sihT si na !elpmaxe"
+"double  spaces"      ==> "elbuod  secaps"![Ekran görüntüsü 2022-09-29 182036](https://user-images.githubusercontent.com/109352349/193072921-0a666eb7-bc63-40f1-975f-65d46777a64b.png)
+
+
 
