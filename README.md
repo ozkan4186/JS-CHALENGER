@@ -76,6 +76,8 @@ Examples
 "double  spaces"      ==> "elbuod  secaps"![Ekran görüntüsü 2022-09-29 182036](https://user-images.githubusercontent.com/109352349/193072921-0a666eb7-bc63-40f1-975f-65d46777a64b.png)
 //*I love you, a little , a lot, passionately ... not at all//*
 ![Ekran görüntüsü 2022-10-04 144332](https://user-images.githubusercontent.com/109352349/193811234-eba2ca72-6d64-4fd8-8adf-cef861158879.png)
+Persistent Bugger.
 
+![Ekran görüntüsü 2022-10-04 164449](https://user-images.githubusercontent.com/109352349/193835829-41101770-f54d-4be2-9bd7-2812fad10bb4.png)
 
 
