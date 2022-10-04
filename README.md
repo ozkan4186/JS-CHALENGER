@@ -30,6 +30,7 @@ image
 //#Find the missing letter
 Write a method that takes an array of consecutive (increasing) letters as input and that returns the missing letter in the array.
 function solution(number) {
+//*
     let arr = 0
     for (i = 0; i < number; i += 3) {
         arr += i
@@ -73,6 +74,8 @@ Complete the function that accepts a string parameter, and reverses each word in
 Examples
 "This is an example!" ==> "sihT si na !elpmaxe"
 "double  spaces"      ==> "elbuod  secaps"![Ekran görüntüsü 2022-09-29 182036](https://user-images.githubusercontent.com/109352349/193072921-0a666eb7-bc63-40f1-975f-65d46777a64b.png)
+//*I love you, a little , a lot, passionately ... not at all//*
+![Ekran görüntüsü 2022-10-04 144332](https://user-images.githubusercontent.com/109352349/193811234-eba2ca72-6d64-4fd8-8adf-cef861158879.png)
 
 
 
